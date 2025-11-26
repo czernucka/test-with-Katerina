@@ -1,2 +1,12 @@
-source 'https://rubygems.org'
-gem 'rails', '5.2'
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+
+BUNDLED WITH
+   2.6.2
